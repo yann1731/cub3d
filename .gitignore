@@ -1,0 +1,26 @@
+# standard
+*.out
+*.o
+*/*.o
+*.a
+*/*.a
+*dSYM*
+*swp*
+.DS_Store
+.vscode/
+
+# additional
+*bkp*
+*/*bkp*
+
+# tests
+*unit*
+*/*unit*
+*UNIT*
+*/*UNIT*
+*minunit*
+*test*
+*/*test*
+
+# project specific
+program
