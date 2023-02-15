@@ -1,0 +1,21 @@
+
+WE           textures/west
+         SO               textures/south
+
+
+                NO 
+NO textures/north
+
+F 255   , 214    ,   255
+C 0,255,255
+
+
+   EA   textures/east              
+
+GF:123 abc
+
+11111111
+10001001
+10N01001
+11000001
+11111111
